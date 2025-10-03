@@ -14,59 +14,40 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Second-year Biological Engineering student with hands-on experience in experimental design, data analytics (R), and histological 
+techniques, seeking an internship in Quality Control, Analytical Development, or Supply Chain Management at a cell and gene therapy 
+CDMO. Independent research on the physiological effects of acoustic stressors on marine organisms involved statistical modeling, assay 
+development, and biological systems analysis—reinforcing principles of data integrity, reproducibility, and process control. Field-based 
+research with the Pacific Whale Foundation and Hawaii Wildlife Fund provided experience in biomonitoring, sample handling, and 
+environmental data management under dynamic conditions. Participated in advanced science programs at Harvard Summer School, UH 
+Mānoa, Hurricane Island, and Earthwatch Institute, gaining exposure to molecular biology, bioinstrumentation, and coordinated research 
+logistics. Brings a systems-level understanding of biology and a commitment to precision, operational rigor, and cross-functional 
+collaboration in support of CGT innovation and manufacturing excellence. 
 
 ---
 
 #### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+Cornell University | Ithaca, NY 
+September 2023 – Current 
+• GPA: 3.5 
+• College of Agricultural and Life Sciences 
+• Major: Biological Engineering 
+• Coursework: biology (physiology, investigative biology), chemistry (general chemistry, organic chemistry), physics (general physics, 
+electromagnetism), math (calculus, differential equations, linear algebra).  
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
-
----
-
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+Phillips Academy | Andover, MA  
+September 2018 – June 2022  
+• AP Calculus  
+• Head of Poongmul (Korean Traditional Drumming) club 
+• Head of Ocean Ecology club 
+• Chemistry peer tutor 
+• Percussionist for Andover orchestra and concert bands
 
 ---
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
 ---
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
 ---
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
+---
+---
 ---
 
 #### References
