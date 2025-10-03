@@ -1,14 +1,12 @@
 ---
 layout: project
 title: Analysis of Functions 
-description: Class project with Graphs (10/3/2025)
+description: Class project with Graphs
 technologies:
 image: assets/images/image_actuator.jpg
-
-
 ---
 
-
+(10/3/2025)
 As part of a class project I adressed the problem through developing a triangle within the bounds.  The triangle consists of two static supports and an IMA actuator of inital length 0.2662m between the supports.  Each support was perpendicular to the ground.  I then summed the moment of the system to find the maximum weight.  I found that the weight the structure could support was dependent on the distance of the actuator from the orgin.  Thus, to maximize this distance, the actuator had to be extending to a length roughly equal to the vertical component of the triangle.
 
 
