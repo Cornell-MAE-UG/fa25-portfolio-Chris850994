@@ -3,7 +3,7 @@ layout: project
 title: Analysis of Functions 
 description: Class project with Graphs (10/3/2025)
 technologies:
-image: ({{ "assets/images/image_actuator.jpg" | relative_url }}){: class="profile-image"}
+image: assets/images/image_actuator.jpg
 
 
 ---
