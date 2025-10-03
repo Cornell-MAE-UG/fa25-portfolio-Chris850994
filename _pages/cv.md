@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-[Download my CV](---[Christopher Ahn Resume 13APR2025.pdf](https://github.com/user-attachments/files/22672934/Christopher.Ahn.Resume.13APR2025.pdf)) in PDF format.
+[Download my CV]:(---[Christopher Ahn Resume 13APR2025.pdf](https://github.com/user-attachments/files/22672934/Christopher.Ahn.Resume.13APR2025.pdf)) in PDF format.
 
 
 **Email:** [cya5@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +617-852-1661
