@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Analysis of Functions 
+title: Homework 5 
 description: Class project with Graphs
 technologies:
 image: assets/images/image_actuator.jpg
